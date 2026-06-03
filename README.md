@@ -1,24 +1,20 @@
 <div align="center">
-  
-  <h2>Hi, I'm Shreya</h2>
-  
-  <p>Enthusiastic Fresher | Building aesthetic and functional web apps</p>  
-  <img width="700" alt="WhatsApp Image 2026-06-04 at 12 33 24 AM" src="https://github.com/user-attachments/assets/82a5790d-bf5c-49f6-a13e-b241ceeddf96" />
-  <!-- The src simply points to the uploaded file name -->
-  
-  <br />
-  <br />
-  
-  <p>
-    I'm currently building projects with React, Tailwind CSS, and Node.js. <br/>
-    How to reach me: <a href="mailto:there.shreya@gmail.com">your-email@example.com</a>
-  </p>
-
+  <h2>hey, i'm shreya<img width="1088" height="617" alt="WhatsApp Image 2026-06-04 at 12 33 24 AM" src="https://github.com/user-attachments/assets/dd49d97e-c0f8-4d88-b967-9e3a1951e650" />
+</h2>
 </div>
 
-<!--
-**shryexe/shryexe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your Git<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2df9deb9-5dfc-4925-97a4-e224ab1b7629" />
-Hub profile.
+<!-- Ensure your image file is named banner.jpg in your repository -->
+<img src="banner.jpg" width="100%" alt="Profile Banner" />
+
+<br>
+overlearning web apps just to wire them into llms.
+
+**stack:** python, typescript, next.js, react.js  
+**focus:** llm structures & generative ai  
+
+<br>
+
+**reach out:** [there.shreya@gmail.com](mailto:there.shreya@gmail.com)
 
 Here are some ideas to get you started:
 
