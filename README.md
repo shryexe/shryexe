@@ -11,7 +11,7 @@
   
   <p>
     I'm currently building projects with React, Tailwind CSS, and Node.js. <br/>
-    How to reach me: <a href="mailto:your-email@example.com">your-email@example.com</a>
+    How to reach me: <a href="mailto: there.shreya@gmail.com">your-email@example.com</a>
   </p>
 
 </div>
