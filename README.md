@@ -3,7 +3,7 @@
   <h2>Hi, I'm Shreya</h2>
   
   <p>Enthusiastic Fresher | Building aesthetic and functional web apps</p>  
-  <img width="1088" height="617" alt="WhatsApp Image 2026-06-04 at 12 33 24 AM" src="https://github.com/user-attachments/assets/82a5790d-bf5c-49f6-a13e-b241ceeddf96" />
+  <img width="800" height="617" alt="WhatsApp Image 2026-06-04 at 12 33 24 AM" src="https://github.com/user-attachments/assets/82a5790d-bf5c-49f6-a13e-b241ceeddf96" />
   <!-- The src simply points to the uploaded file name -->
   
   <br />
@@ -11,7 +11,7 @@
   
   <p>
     I'm currently building projects with React, Tailwind CSS, and Node.js. <br/>
-    How to reach me: <a href="mailto: there.shreya@gmail.com">your-email@example.com</a>
+    How to reach me: <a href="mailto:there.shreya@gmail.com">your-email@example.com</a>
   </p>
 
 </div>
