@@ -1,4 +1,4 @@
-<div align="center">
+<div 
   <h2>hey, i'm shreya </h2>
 </div>
 
