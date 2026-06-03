@@ -1,6 +1,6 @@
 ## hey, i'm shreya 👋
 
-<img width="100%" alt="WhatsApp Image 2026-06-04 at 12 33 24 AM" src="https://github.com/user-attachments/assets/d01f5094-ee33-4f74-9dc2-cf949d072716" />
+<img width="650" alt="WhatsApp Image 2026-06-04 at 12 33 24 AM" src="https://github.com/user-attachments/assets/d01f5094-ee33-4f74-9dc2-cf949d072716" />
 
 <h4> learning web apps just to wire them into llms.</h4>
 
